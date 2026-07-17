@@ -80,20 +80,20 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/GeoServer-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MapServer-4A7A2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GeoServer-2E7D32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MapServer-4A7A2E?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Geomarketing-764ba2?style=for-the-badge"/>
 </p>
 
@@ -118,7 +118,7 @@ Every category below maps to a stage of that pipeline — from field data to fin
 
 ### 📐 Topography & CAD
 <p align="left">
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Covadis-764ba2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/GlobalMapper-764ba2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Topographic_Surveying-764ba2?style=for-the-badge"/>
@@ -130,9 +130,9 @@ Every category below maps to a stage of that pipeline — from field data to fin
 ### 💾 Databases & Spatial Data Management
 <p align="left">
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge"/>
 </p>
 
 - 🗄️ **Spatial databases** — designing & querying the data layer behind every WebGIS platform I build
@@ -140,9 +140,9 @@ Every category below maps to a stage of that pipeline — from field data to fin
 
 ### 📱 Mobile & Desktop Development
 <p align="left">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android_SDK-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyQt5-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tkinter-764ba2?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JavaFX-764ba2?style=for-the-badge"/>
 </p>
@@ -153,7 +153,7 @@ Every category below maps to a stage of that pipeline — from field data to fin
 ### 💻 Programming & Data Analysis
 <p align="left">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
@@ -165,8 +165,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <p align="left">
 <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=googleworkspace&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
 <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 <img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
 <img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white"/>
