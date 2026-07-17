@@ -191,6 +191,8 @@ Real deliverables from that pipeline — from siting a treatment plant to mappin
 - 🏞️ **QGIS Plugin — Tourism Sustainability** *(QGIS · AHP)* — Custom multi-criteria evaluation plugin for sustainable tourism
 - 🌉 **Europe–Africa Bridge Feasibility** *(Google Earth Engine)* — Large-scale feasibility study at the Strait of Gibraltar
 
+---
+
 ## 📫 Let's Connect!
 
 Always up for a conversation about WebGIS, remote sensing, or spatial decision-support — I'm a 2026 graduate actively looking for full-time roles in GIS, WebGIS or geospatial analysis.
