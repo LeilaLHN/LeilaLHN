@@ -9,9 +9,6 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/leila-lhannaoui-409b32223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:4leilalhannaoui@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<img src="https://img.shields.io/github/followers/LeilaLHN?style=flat-square&logo=github&label=Followers&color=181717"/>
-<img src="https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=flat-square"/>
-<img src="https://img.shields.io/badge/Graduate-2026-764ba2?style=flat-square"/>
 </p>
 
 ## 🧭 From Data to Decisions
