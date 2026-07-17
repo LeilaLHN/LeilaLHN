@@ -20,13 +20,6 @@ I turn satellite imagery, field surveys, and multi-criteria models into interact
 
 State Engineer in Geoinformation, FSTT (2023–2026). I just wrapped up my PFE internship at Orange Morocco, building WebGIS & geomarketing tools. I like owning the full pipeline myself: data collection (satellite, field, census), processing (QGIS, GEE, Python), spatial analysis (AHP, overlay, statistics), and WebGIS delivery (Leaflet, React, APIs) that ends in a dashboard someone actually uses to make a decision.
 
-- 🛰️ **Remote sensing** — automated change detection with Google Earth Engine & deep learning
-- 📐 **Spatial decision analysis** — AHP-based site suitability for real infrastructure projects
-- 🌐 **WebGIS engineering** — PostGIS → API → Leaflet/React, end to end
-- 🏙️ **3D & digital twins** — Blender/CityEngine modeling for smart-city use cases
-
-*📍 Marrakech, Morocco · 🎓 Graduate of 2026 · 🟢 Open to GIS, WebGIS & remote-sensing roles*
-
 ```yaml
 profile:
   name: "Leila Lhannaoui"
@@ -197,25 +190,6 @@ Real deliverables from that pipeline — from siting a treatment plant to mappin
 - 🚌 **Urban Transport WebGIS — Tangier Medina** *(PostGIS · Python · Leaflet)* — Interactive spatial-analysis platform for urban transport planning
 - 🏞️ **QGIS Plugin — Tourism Sustainability** *(QGIS · AHP)* — Custom multi-criteria evaluation plugin for sustainable tourism
 - 🌉 **Europe–Africa Bridge Feasibility** *(Google Earth Engine)* — Large-scale feasibility study at the Strait of Gibraltar
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=LeilaLHN&show_icons=true&theme=tokyonight&hide_border=true" width="49%"/>
-<img src="https://streak-stats.demolab.com/?user=LeilaLHN&theme=tokyonight&hide_border=true" width="49%"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeilaLHN&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=LeilaLHN&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
 
 ## 📫 Let's Connect!
 
