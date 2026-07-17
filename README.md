@@ -1,19 +1,25 @@
-<h1 align="center">Leila Lhannaoui</h1>
-<h3 align="center">Ingénieure SIG & Géomatique · WebSIG · Télédétection · Analyse Spatiale · Géomarketing</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header"/>
+</p>
+
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=667EEA&center=true&vCenter=true&width=550&height=60&lines=Hi+%F0%9F%91%8B;Leila+Lhannaoui;GIS+%26+Geomatics+Engineer" alt="Typing SVG"/></a>
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/leila-lhannaoui-409b32223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:4leilalhannaoui@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<img src="https://komarev.com/ghpvc/?username=LeilaLHN&color=667eea&style=flat-square&label=Profile+Views"/>
 </p>
 
-Ingénieure d'État en Géoinformation (FSTT, 2023-2026), je conçois des plateformes WebSIG et des outils d'aide à la décision territoriale : géomarketing, télédétection, analyse spatiale et jumeaux numériques.
+State Engineer in Geoinformation (FSTT, 2023-2026), building WebGIS platforms and spatial decision-support tools: geomarketing, remote sensing, spatial analysis and digital twins.
 
-- 🎓 Dernier stage (PFE) — **Orange Maroc**, WebSIG & Géomarketing
-- 🌍 Basée à Marrakech, Maroc
-- 🗣️ Arabe (maternelle) · Français (courant) · Anglais (C1)
-- 🌱 Ouverte aux opportunités en SIG, géomatique et développement WebSIG
+- 🎓 Latest internship (PFE) — **Orange Morocco**, WebGIS & Geomarketing
+- 🌍 Based in Marrakech, Morocco
+- 🗣️ Arabic (native) · French (fluent) · English (C1)
+- 🌱 Open to opportunities in GIS, Geomatics and WebGIS development
 
-### 🛠️ Stack technique
+### 🛠️ Tech Stack
 
 **Web & WebMapping**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,34 +32,34 @@ Ingénieure d'État en Géoinformation (FSTT, 2023-2026), je conçois des platef
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
 
-**SIG & Géospatial**
+**GIS & Geospatial**
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=flat-square)
 ![ArcGIS Pro](https://img.shields.io/badge/ArcGIS_Pro-005E95?style=flat-square)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square)
 ![Google Earth Engine](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square)
 
-**Bases de données**
+**Databases**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-**3D / Digital Twin & Langages**
+**3D / Digital Twin & Languages**
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### 🚀 Projets phares
+### 🚀 Featured Projects
 
-- **STEPO** — Analyse multicritère SIG (ArcGIS) pour la sélection optimale d'une station d'épuration à Ouazzane
-- **GeoCalc** — Application desktop Python pour la conversion de coordonnées et les calculs géodésiques
-- **Détection de zones brûlées** — Télédétection et Deep Learning pour la cartographie automatique des surfaces affectées
-- **WebSIG Transport Urbain — Tanger Médina** — Plateforme PostGIS / Python / Leaflet pour l'analyse spatiale
-- **Plugin QGIS — Durabilité Touristique** — Évaluation multicritère par la méthode AHP
-- **Pont Europe–Afrique via Google Earth Engine** — Étude géospatiale de faisabilité au détroit de Gibraltar
+- **STEPO** — Multi-criteria GIS analysis (ArcGIS) for optimal siting of a wastewater treatment plant in Ouazzane
+- **GeoCalc** — Python desktop app for coordinate conversion and geodetic calculations
+- **Burned Area Detection** — Remote sensing and Deep Learning for automatic mapping of affected surfaces
+- **Urban Transport WebGIS — Tangier Medina** — PostGIS / Python / Leaflet platform for spatial analysis
+- **QGIS Plugin — Tourism Sustainability** — Multi-criteria evaluation using the AHP method
+- **Europe–Africa Bridge via Google Earth Engine** — Geospatial feasibility study at the Strait of Gibraltar
 
-### 📊 Statistiques
+### 📊 GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=LeilaLHN&show_icons=true&theme=default&hide_border=true" height="150"/>
