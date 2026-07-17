@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=650&height=60&lines=Hi+%F0%9F%91%8B;I%27m+Leila+Lhannaoui;GIS+%26+Geomatics+Engineer;WebGIS+Developer;Remote+Sensing+Enthusiast;From+Data+to+Decisions" alt="Typing SVG"/></a>
+<a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=650&height=60&lines=Heey+%F0%9F%91%8B;I%27m+Leila+Lhannaoui;GIS+%26+Geomatics+Engineer;WebGIS+Developer;Remote+Sensing+Enthusiast;From+Data+to+Decisions" alt="Typing SVG"/></a>
 </p>
 
 <p align="center">
