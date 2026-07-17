@@ -11,14 +11,21 @@
 <a href="mailto:4leilalhannaoui@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://img.shields.io/github/followers/LeilaLHN?style=flat-square&logo=github&label=Followers&color=181717"/>
 <img src="https://img.shields.io/badge/Open_to-Opportunities-2ea44f?style=flat-square"/>
-</p>
-
-<p align="center">
-I turn satellite imagery, field data, and multi-criteria models into interactive maps and decision-support tools that answer one question — <strong>where</strong>. Where to build, where risk concentrates, where a city can grow smarter.<br/>
-Final-year State Engineer in Geoinformation at FSTT (2023–2026), currently building WebGIS & geomarketing tools during my PFE internship at Orange Morocco.
+<img src="https://img.shields.io/badge/Graduating-2026-764ba2?style=flat-square"/>
 </p>
 
 ## 🧭 From Data to Decisions
+
+I turn satellite imagery, field data, and multi-criteria models into interactive maps and decision-support tools that answer one question — **where**. Where to build, where risk concentrates, where a city can grow smarter.
+
+Final-year State Engineer in Geoinformation at FSTT (2023–2026), currently building WebGIS & geomarketing tools during my PFE internship at Orange Morocco. I like problems that run the whole pipeline — from raw pixels and shapefiles to a dashboard someone actually uses to decide.
+
+- 🛰️ **Remote sensing** — automatic change detection with Google Earth Engine & deep learning
+- 📐 **Spatial decision analysis** — AHP-based site suitability for real infrastructure projects
+- 🌐 **WebGIS engineering** — from PostGIS schema to API to Leaflet/React front end
+- 🏙️ **3D & digital twins** — Blender modeling for smart-city use cases
+
+*📍 Marrakech, Morocco · 🎓 Graduating 2026 · 🟢 Open to GIS, WebGIS & remote-sensing roles*
 
 ```mermaid
 flowchart LR
@@ -62,9 +69,9 @@ From satellite imagery to interactive web maps — here's the stack behind turni
 <img src="https://img.shields.io/badge/AHP_Decision_Analysis-764ba2?style=for-the-badge"/>
 </p>
 
-- 📐 **Site suitability** — multi-criteria decision analysis (AHP), e.g. optimal siting of a wastewater treatment plant (STEPO, Ouazzane)
-- 🧩 **Plugin development** — custom QGIS plugins, e.g. a tourism sustainability evaluation tool
-- 🗺️ **Spatial modeling** — overlay analysis & geoprocessing workflows in QGIS / ArcGIS Pro
+- 📐 **Site suitability** — AHP-based multi-criteria analysis, applied to siting a wastewater treatment plant (STEPO, Ouazzane)
+- 🧩 **Plugin development** — custom QGIS plugins, including a tourism-sustainability evaluation tool
+- 🗺️ **Spatial modeling** — overlay analysis & geoprocessing pipelines in QGIS / ArcGIS Pro
 
 ### 🛰️ Remote Sensing & Earth Observation
 <p align="left">
@@ -73,9 +80,9 @@ From satellite imagery to interactive web maps — here's the stack behind turni
 <img src="https://img.shields.io/badge/Deep_Learning-764ba2?style=for-the-badge"/>
 </p>
 
-- 🔥 **Change detection** — automatic burned-area mapping combining remote sensing & deep learning
-- 🌉 **Feasibility studies** — large-scale geospatial studies, e.g. the Europe–Africa Bridge study at the Strait of Gibraltar
-- 🛰️ **Earth observation** — satellite imagery analysis with Google Earth Engine
+- 🔥 **Change detection** — automatic burned-area mapping, combining remote sensing with deep learning
+- 🌉 **Feasibility studies** — large-scale geospatial analysis for the Europe–Africa Bridge study at the Strait of Gibraltar
+- 🛰️ **Earth observation** — satellite imagery analysis & processing with Google Earth Engine
 
 ### 🌐 WebGIS & Web Development
 <p align="left">
@@ -91,9 +98,9 @@ From satellite imagery to interactive web maps — here's the stack behind turni
 <img src="https://img.shields.io/badge/Geomarketing-764ba2?style=for-the-badge"/>
 </p>
 
-- 🗺️ **Interactive platforms** — WebGIS tools for spatial decision-support, e.g. Urban Transport WebGIS (Tangier Medina)
-- 📊 **Geomarketing** — dashboards & tools built during the PFE internship at Orange Morocco
-- 🔗 **Backend & deployment** — APIs with Django / FastAPI / PHP, containerized and shipped with Docker
+- 🗺️ **Interactive platforms** — spatial decision-support WebGIS, e.g. the Urban Transport WebGIS for Tangier Medina
+- 📊 **Geomarketing** — location-intelligence dashboards built during my PFE internship at Orange Morocco
+- 🔗 **Backend & deployment** — APIs with Django / FastAPI / PHP, containerized with Docker
 
 ### 🏙️ 3D Modeling & Digital Twin
 <p align="left">
@@ -124,20 +131,22 @@ From satellite imagery to interactive web maps — here's the stack behind turni
 </p>
 
 - 🐍 **Python** — geoprocessing automation & desktop GIS tools, e.g. GeoCalc (coordinate conversion & geodetic calculations)
-- 📊 **R** for spatial statistics, plus **Java** & **C++** from engineering coursework
+- 📊 **R** — spatial statistics, plus **Java** & **C++** from engineering coursework
 
 ---
 
 ## 🚀 Featured Projects
 
+A few projects that show the range — from multi-criteria siting to satellite-based change detection.
+
 | | Project | Tools | Highlights |
 |:---:|---|---|---|
-| 🏭 | **STEPO** | ArcGIS | AHP-based multi-criteria analysis to site a wastewater treatment plant in Ouazzane |
+| 🏭 | **STEPO** | ArcGIS | AHP multi-criteria siting of a wastewater treatment plant, Ouazzane |
 | 🧮 | **GeoCalc** | Python | Desktop app for coordinate conversion & geodetic calculations |
-| 🔥 | **Burned Area Detection** | Remote Sensing · Deep Learning | Automatic mapping of fire-affected surfaces from satellite imagery |
+| 🔥 | **Burned Area Detection** | Remote Sensing · Deep Learning | Automated mapping of fire-affected surfaces from satellite imagery |
 | 🚌 | **Urban Transport WebGIS — Tangier Medina** | PostGIS · Python · Leaflet | Interactive spatial-analysis platform for urban transport planning |
 | 🏞️ | **QGIS Plugin — Tourism Sustainability** | QGIS · AHP | Custom multi-criteria evaluation plugin for sustainable tourism |
-| 🌉 | **Europe–Africa Bridge Feasibility** | Google Earth Engine | Large-scale geospatial feasibility study at the Strait of Gibraltar |
+| 🌉 | **Europe–Africa Bridge Feasibility** | Google Earth Engine | Large-scale feasibility study at the Strait of Gibraltar |
 
 ---
 
@@ -160,7 +169,7 @@ From satellite imagery to interactive web maps — here's the stack behind turni
 
 ## 📫 Let's Connect!
 
-Always glad to talk WebGIS, remote sensing, or spatial decision-support — reach out any time!
+Always glad to talk WebGIS, remote sensing, or spatial decision-support — reach out any time. I'm graduating in 2026 and open to full-time GIS, WebGIS, or geospatial-analysis roles.
 
 <p align="center">
 📧 <strong>Email:</strong> <a href="mailto:4leilalhannaoui@gmail.com">4leilalhannaoui@gmail.com</a><br>
