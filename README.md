@@ -53,9 +53,9 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Cartographic_Production-764ba2?style=for-the-badge"/>
 </p>
 
-- 📐 **Site suitability** — AHP multi-criteria analysis, applied to siting a wastewater treatment plant (STEPO, Ouazzane)
-- 🧩 **Plugin development** — custom QGIS plugins for tourism-sustainability scoring, urban-derogation checks & 5G-eligibility analysis
-- 🗺️ **Cartographic production** — thematic & decision-support maps in QGIS / ArcGIS Pro
+-  **Site suitability** — AHP multi-criteria analysis, applied to siting a wastewater treatment plant (STEPO, Ouazzane)
+-  **Plugin development** — custom QGIS plugins for tourism-sustainability scoring, urban-derogation checks & 5G-eligibility analysis
+-  **Cartographic production** — thematic & decision-support maps in QGIS / ArcGIS Pro
 
 ### 🛰️ Remote Sensing & Earth Observation
 <p align="left">
@@ -68,9 +68,9 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Deep_Learning-764ba2?style=for-the-badge"/>
 </p>
 
-- 🔥 **Change detection** — automated burned-area mapping, combining remote sensing with Deep Learning
-- 🌉 **Feasibility studies** — satellite-based corridor analysis for the Europe–Africa Bridge study, Strait of Gibraltar
-- 📡 **Radar & LiDAR** — InSAR processing in ESA SNAP, point-cloud analysis in CloudCompare
+-  **Change detection** — automated burned-area mapping, combining remote sensing with Deep Learning
+-  **Feasibility studies** — satellite-based corridor analysis for the Europe–Africa Bridge study, Strait of Gibraltar
+-  **Radar & LiDAR** — InSAR processing in ESA SNAP, point-cloud analysis in CloudCompare
 
 ### 🌐 WebGIS & Web Development
 <p align="left">
@@ -97,9 +97,9 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Geomarketing-764ba2?style=for-the-badge"/>
 </p>
 
-- 🗺️ **Interactive platforms** — WebGIS delivery with Leaflet / OpenLayers / Mapbox, e.g. the Urban Transport WebGIS for Tangier Medina
-- 📊 **Geomarketing** — location-intelligence dashboards & 4×3 ad-placement scoring built during my PFE at Orange Morocco
-- 🔗 **Backend & deployment** — REST APIs with Django / FastAPI / PHP / Spring Boot, served via GeoServer/MapServer, containerized with Docker
+-  **Interactive platforms** — WebGIS delivery with Leaflet / OpenLayers / Mapbox, e.g. the Urban Transport WebGIS for Tangier Medina
+-  **Geomarketing** — location-intelligence dashboards & 4×3 ad-placement scoring built during my PFE at Orange Morocco
+-  **Backend & deployment** — REST APIs with Django / FastAPI / PHP / Spring Boot, served via GeoServer/MapServer, containerized with Docker
 
 ### 🏙️ 3D Modeling, Digital Twin & CIM
 <p align="left">
@@ -113,8 +113,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Digital_Twin-764ba2?style=for-the-badge"/>
 </p>
 
-- 🏗️ **3D city modeling** — Blender / SketchUp / CityEngine assets for a CIM & Digital Twin of the Hay Safir district, Tétouan
-- 🎬 **Visualization** — real-time rendering & walkthroughs with Twinmotion
+-  **3D city modeling** — Blender / SketchUp / CityEngine assets for a CIM & Digital Twin of the Hay Safir district, Tétouan
+-  **Visualization** — real-time rendering & walkthroughs with Twinmotion
 
 ### 📐 Topography & CAD
 <p align="left">
@@ -124,8 +124,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Topographic_Surveying-764ba2?style=for-the-badge"/>
 </p>
 
-- 📏 **Field surveys** — topographic data collection & processing for land-development (VRD) projects
-- 📐 **CAD drafting** — topographic plans & technical computations in AutoCAD / Covadis at EGC PROJETS
+-  **Field surveys** — topographic data collection & processing for land-development (VRD) projects
+-  **CAD drafting** — topographic plans & technical computations in AutoCAD / Covadis at EGC PROJETS
 
 ### 💾 Databases & Spatial Data Management
 <p align="left">
@@ -135,8 +135,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge"/>
 </p>
 
-- 🗄️ **Spatial databases** — designing & querying the data layer behind every WebGIS platform I build
-- 🔍 **Spatial SQL** — proximity, overlay & topology queries with PostGIS
+-  **Spatial databases** — designing & querying the data layer behind every WebGIS platform I build
+-  **Spatial SQL** — proximity, overlay & topology queries with PostGIS
 
 ### 📱 Mobile & Desktop Development
 <p align="left">
@@ -147,8 +147,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/JavaFX-764ba2?style=for-the-badge"/>
 </p>
 
-- 🖥️ **Desktop tools** — GeoCalc, a Python/PyQt5 app for coordinate conversion & geodetic calculations
-- 📱 **Mobile** — MedWay, a Java/Android app for geolocation-based navigation to healthcare facilities
+-  **Desktop tools** — GeoCalc, a Python/PyQt5 app for coordinate conversion & geodetic calculations
+-  **Mobile** — MedWay, a Java/Android app for geolocation-based navigation to healthcare facilities
 
 ### 💻 Programming & Data Analysis
 <p align="left">
@@ -158,8 +158,8 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
 </p>
 
-- 🐍 **Automation** — Python scripting for geoprocessing pipelines & repetitive GIS tasks
-- 📊 **Analysis** — spatial statistics in R, with C/C++ fundamentals from core engineering coursework
+-  **Automation** — Python scripting for geoprocessing pipelines & repetitive GIS tasks
+-  **Analysis** — spatial statistics in R, with C/C++ fundamentals from core engineering coursework
 
 ### 🤝 Collaboration & Productivity
 <p align="left">
@@ -172,7 +172,7 @@ Every category below maps to a stage of that pipeline — from field data to fin
 <img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white"/>
 </p>
 
-- 📋 **Delivery & reporting** — Trello/ClickUp for task tracking, Office & Google Workspace for client-ready reporting
+-  **Delivery & reporting** — Trello/ClickUp for task tracking, Office & Google Workspace for client-ready reporting
 
 ---
 
@@ -180,13 +180,13 @@ Every category below maps to a stage of that pipeline — from field data to fin
 
 Real deliverables from that pipeline — from siting a treatment plant to mapping fire damage from space.
 
-- 🏭 **STEPO** *(ArcGIS)* — AHP multi-criteria siting of a wastewater treatment plant, Ouazzane
-- 🧮 **GeoCalc** *(Python · PyQt5)* — Desktop app for coordinate conversion & geodetic calculations
-- 🏥 **MedWay** *(Java · Android)* — Mobile app for geolocation-based access to healthcare facilities
-- 🔥 **Burned Area Detection** *(Remote Sensing · Deep Learning)* — Automated mapping of fire-affected surfaces from satellite imagery
-- 🚌 **Urban Transport WebGIS — Tangier Medina** *(PostGIS · Python · Leaflet)* — Interactive spatial-analysis platform for urban transport planning
-- 🏞️ **QGIS Plugin — Tourism Sustainability** *(QGIS · AHP)* — Custom multi-criteria evaluation plugin for sustainable tourism
-- 🌉 **Europe–Africa Bridge Feasibility** *(Google Earth Engine)* — Large-scale feasibility study at the Strait of Gibraltar
+-  **STEPO** *(ArcGIS)* — AHP multi-criteria siting of a wastewater treatment plant, Ouazzane
+-  **GeoCalc** *(Python · PyQt5)* — Desktop app for coordinate conversion & geodetic calculations
+-  **MedWay** *(Java · Android)* — Mobile app for geolocation-based access to healthcare facilities
+-  **Burned Area Detection** *(Remote Sensing · Deep Learning)* — Automated mapping of fire-affected surfaces from satellite imagery
+-  **Urban Transport WebGIS — Tangier Medina** *(PostGIS · Python · Leaflet)* — Interactive spatial-analysis platform for urban transport planning
+-  **QGIS Plugin — Tourism Sustainability** *(QGIS · AHP)* — Custom multi-criteria evaluation plugin for sustainable tourism
+-  **Europe–Africa Bridge Feasibility** *(Google Earth Engine)* — Large-scale feasibility study at the Strait of Gibraltar
 
 ---
 
