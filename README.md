@@ -192,7 +192,7 @@ Real deliverables from that pipeline — from siting a treatment plant to mappin
 
 ## 📫 Let's Connect!
 
-Always up for a conversation about WebGIS, remote sensing, or spatial decision-support — I'm a 2026 graduate actively looking for full-time roles in GIS, WebGIS or geospatial analysis.
+Always up for a conversation about WebGIS, remote sensing, or spatial decision-support.
 
 <p align="center">
 📧 <strong>Email:</strong> <a href="mailto:4leilalhannaoui@gmail.com">4leilalhannaoui@gmail.com</a><br>
