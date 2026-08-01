@@ -22,7 +22,7 @@ profile:
   name: "Leila Lhannaoui"
   title: "GIS & Geomatics Engineer"
   based_in: "Marrakech, Morocco 🇲🇦"
-  education: "State Engineer in Geoinformation — FSTT, Faculté des Sciences et Techniques de Tanger (2023-2026)"
+  education: "State Engineer in Geoinformation — FSTT, Faculty of Science and Technology, Tangier (2023-2026)"
   latest_experience: "PFE Internship @ Orange Morocco — WebGIS & Geomarketing (Feb-Jun 2026)"
 
   focus:
