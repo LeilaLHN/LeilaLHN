@@ -6,11 +6,6 @@
 <a href="https://readme-typing-svg.demolab.com/"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=667EEA&center=true&vCenter=true&width=650&height=60&lines=Heey+%F0%9F%91%8B;I%27m+Leila+LHANNAOUI;GIS+%26+Geomatics+Engineer;WebGIS+Developer;Remote+Sensing+Enthusiast;Spatial+Data+%26+Analysis;From+Data+to+Decisions" alt="Typing SVG"/></a>
 </p>
 
-<p align="center">
-<a href="https://www.linkedin.com/in/leila-lhannaoui-409b32223"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:4leilalhannaoui@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-</p>
-
 ## 🧭 From Data to Decisions
 
 I turn satellite imagery, field surveys, and multi-criteria models into interactive maps and decision-support tools that answer one question: **where**. Where to site a treatment plant. Where risk concentrates. Where a city still has room to grow.
@@ -19,11 +14,10 @@ State Engineer in Geoinformation, FSTT (2023–2026). I just wrapped up my PFE i
 
 ```yaml
 profile:
-  name: "Leila Lhannaoui"
+  name: "Leila LHANNAOUI"
   title: "GIS & Geomatics Engineer"
-  based_in: "Marrakech, Morocco 🇲🇦"
+  based_in: "Morocco 🇲🇦"
   education: "State Engineer in Geoinformation — FSTT, Faculty of Science and Technology, Tangier (2023-2026)"
-  latest_experience: "PFE Internship @ Orange Morocco — WebGIS & Geomarketing (Feb-Jun 2026)"
 
   focus:
     - "WebGIS platforms & spatial decision-support tools"
