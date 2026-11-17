@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=150&section=header"/>
+<img src="assets/globe.gif" alt="Rotating Earth" width="100%"/>
 </p>
 
 <p align="center">
@@ -38,133 +38,79 @@ profile:
 Every category below maps to a stage of that pipeline — from field data to final decision.
 
 ### 🗺️ GIS & Spatial Analysis
-<p align="left">
-<img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArcGIS_Pro-005E95?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/PhilCarto-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Spatial_Analysis-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AHP_Decision_Analysis-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Cartographic_Production-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/qgis" height="40" alt="QGIS" title="QGIS"/><br/><sub><b>QGIS</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/arcgis" height="40" alt="ArcGIS Pro" title="ArcGIS Pro"/><br/><sub><b>ArcGIS Pro</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5fa.svg" height="40" alt="PhilCarto" title="PhilCarto"/><br/><sub><b>PhilCarto</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ca.svg" height="40" alt="Spatial Analysis" title="Spatial Analysis"/><br/><sub><b>Spatial Analysis</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2696.svg" height="40" alt="AHP" title="AHP"/><br/><sub><b>AHP</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5fa.svg" height="40" alt="Cartography" title="Cartography"/><br/><sub><b>Cartography</b></sub></td></tr>
+</table>
 
 -  **Site suitability** — AHP multi-criteria analysis, applied to siting a wastewater treatment plant (STEPO, Ouazzane)
 -  **Plugin development** — custom QGIS plugins for tourism-sustainability scoring, urban-derogation checks & 5G-eligibility analysis
 -  **Cartographic production** — thematic & decision-support maps in QGIS / ArcGIS Pro
 
 ### 🛰️ Remote Sensing & Earth Observation
-<p align="left">
-<img src="https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ENVI-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Erdas_Imagine-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ESA_SNAP-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CloudCompare-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Photogrammetry-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Deep_Learning-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/googleearthengine" height="40" alt="Earth Engine" title="Earth Engine"/><br/><sub><b>Earth Engine</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6f0.svg" height="40" alt="ENVI" title="ENVI"/><br/><sub><b>ENVI</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f6f0.svg" height="40" alt="Erdas Imagine" title="Erdas Imagine"/><br/><sub><b>Erdas Imagine</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4e1.svg" height="40" alt="ESA SNAP" title="ESA SNAP"/><br/><sub><b>ESA SNAP</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2601.svg" height="40" alt="CloudCompare" title="CloudCompare"/><br/><sub><b>CloudCompare</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4f7.svg" height="40" alt="Photogrammetry" title="Photogrammetry"/><br/><sub><b>Photogrammetry</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9e0.svg" height="40" alt="Deep Learning" title="Deep Learning"/><br/><sub><b>Deep Learning</b></sub></td></tr>
+</table>
 
 -  **Change detection** — automated burned-area mapping, combining remote sensing with Deep Learning
 -  **Feasibility studies** — satellite-based corridor analysis for the Europe–Africa Bridge study, Strait of Gibraltar
 -  **Radar & LiDAR** — InSAR processing in ESA SNAP, point-cloud analysis in CloudCompare
 
 ### 🌐 WebGIS & Web Development
-<p align="left">
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Mapbox-000000?style=for-the-badge&logo=mapbox&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenStreetMap-7EBC6F?style=for-the-badge&logo=openstreetmap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MapLibre-396CB2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GeoServer-2E7D32?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MapServer-4A7A2E?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CesiumJS-6CADDF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Geomarketing-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/html5" height="40" alt="HTML5" title="HTML5"/><br/><sub><b>HTML5</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/css3" height="40" alt="CSS3" title="CSS3"/><br/><sub><b>CSS3</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/javascript" height="40" alt="JavaScript" title="JavaScript"/><br/><sub><b>JavaScript</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/react" height="40" alt="React" title="React"/><br/><sub><b>React</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/tailwindcss" height="40" alt="Tailwind" title="Tailwind"/><br/><sub><b>Tailwind</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/leaflet" height="40" alt="Leaflet" title="Leaflet"/><br/><sub><b>Leaflet</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/mapbox/888888" height="40" alt="Mapbox" title="Mapbox"/><br/><sub><b>Mapbox</b></sub></td></tr>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/openstreetmap" height="40" alt="OpenStreetMap" title="OpenStreetMap"/><br/><sub><b>OpenStreetMap</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/openlayers" height="40" alt="OpenLayers" title="OpenLayers"/><br/><sub><b>OpenLayers</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/maplibre" height="40" alt="MapLibre" title="MapLibre"/><br/><sub><b>MapLibre</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/cesium" height="40" alt="CesiumJS" title="CesiumJS"/><br/><sub><b>CesiumJS</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" height="40" alt="GeoServer" title="GeoServer"/><br/><sub><b>GeoServer</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f5a5.svg" height="40" alt="MapServer" title="MapServer"/><br/><sub><b>MapServer</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cd.svg" height="40" alt="Geomarketing" title="Geomarketing"/><br/><sub><b>Geomarketing</b></sub></td></tr>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/django" height="40" alt="Django" title="Django"/><br/><sub><b>Django</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/flask/888888" height="40" alt="Flask" title="Flask"/><br/><sub><b>Flask</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/fastapi" height="40" alt="FastAPI" title="FastAPI"/><br/><sub><b>FastAPI</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/php" height="40" alt="PHP" title="PHP"/><br/><sub><b>PHP</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/springboot" height="40" alt="Spring Boot" title="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/docker" height="40" alt="Docker" title="Docker"/><br/><sub><b>Docker</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f50c.svg" height="40" alt="REST API" title="REST API"/><br/><sub><b>REST API</b></sub></td></tr>
+</table>
 
 -  **Interactive platforms** — WebGIS delivery with Leaflet / OpenLayers / Mapbox, e.g. the Urban Transport WebGIS for Tangier Medina
 -  **Geomarketing** — location-intelligence dashboards & 4×3 ad-placement scoring built during my PFE at Orange Morocco
 -  **Backend & deployment** — REST APIs with Django / FastAPI / PHP / Spring Boot, served via GeoServer/MapServer, containerized with Docker
 
 ### 🏙️ 3D Modeling, Digital Twin & CIM
-<p align="left">
-<img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white"/>
-<img src="https://img.shields.io/badge/SketchUp-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CityEngine-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Twinmotion-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/ArchiCAD-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OSM2World-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CIM-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Digital_Twin-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/blender" height="40" alt="Blender" title="Blender"/><br/><sub><b>Blender</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/sketchup" height="40" alt="SketchUp" title="SketchUp"/><br/><sub><b>SketchUp</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/archicad" height="40" alt="ArchiCAD" title="ArchiCAD"/><br/><sub><b>ArchiCAD</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3d9.svg" height="40" alt="CityEngine" title="CityEngine"/><br/><sub><b>CityEngine</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3ac.svg" height="40" alt="Twinmotion" title="Twinmotion"/><br/><sub><b>Twinmotion</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f9f1.svg" height="40" alt="OSM2World" title="OSM2World"/><br/><sub><b>OSM2World</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f3d7.svg" height="40" alt="CIM" title="CIM"/><br/><sub><b>CIM</b></sub></td></tr>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f504.svg" height="40" alt="Digital Twin" title="Digital Twin"/><br/><sub><b>Digital Twin</b></sub></td></tr>
+</table>
 
 -  **3D city modeling** — Blender / SketchUp / CityEngine assets for a CIM & Digital Twin of the Hay Safir district, Tétouan
 -  **Visualization** — real-time rendering & walkthroughs with Twinmotion
 
 ### 📐 Topography & CAD
-<p align="left">
-<img src="https://img.shields.io/badge/Autodesk-000000?style=for-the-badge&logo=autodesk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Covadis-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GlobalMapper-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Topographic_Surveying-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/autodesk/888888" height="40" alt="AutoCAD" title="AutoCAD"/><br/><sub><b>AutoCAD</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4d0.svg" height="40" alt="Covadis" title="Covadis"/><br/><sub><b>Covadis</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f310.svg" height="40" alt="GlobalMapper" title="GlobalMapper"/><br/><sub><b>GlobalMapper</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4cf.svg" height="40" alt="Surveying" title="Surveying"/><br/><sub><b>Surveying</b></sub></td></tr>
+</table>
 
 -  **Field surveys** — topographic data collection & processing for land-development (VRD) projects
 -  **CAD drafting** — topographic plans & technical computations in AutoCAD / Covadis at EGC PROJETS
 
 ### 💾 Databases & Spatial Data Management
-<p align="left">
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostGIS-336791?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/postgresql" height="40" alt="PostgreSQL" title="PostgreSQL"/><br/><sub><b>PostgreSQL</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f418.svg" height="40" alt="PostGIS" title="PostGIS"/><br/><sub><b>PostGIS</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/mysql" height="40" alt="MySQL" title="MySQL"/><br/><sub><b>MySQL</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/sqlite" height="40" alt="SQLite" title="SQLite"/><br/><sub><b>SQLite</b></sub></td></tr>
+</table>
 
 -  **Spatial databases** — designing & querying the data layer behind every WebGIS platform I build
 -  **Spatial SQL** — proximity, overlay & topology queries with PostGIS
 
 ### 📱 Mobile & Desktop Development
-<p align="left">
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tkinter-764ba2?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JavaFX-764ba2?style=for-the-badge"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/openjdk" height="40" alt="Java" title="Java"/><br/><sub><b>Java</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/android" height="40" alt="Android" title="Android"/><br/><sub><b>Android</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/qt" height="40" alt="Qt" title="Qt"/><br/><sub><b>Qt</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1fa9f.svg" height="40" alt="Tkinter" title="Tkinter"/><br/><sub><b>Tkinter</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/2615.svg" height="40" alt="JavaFX" title="JavaFX"/><br/><sub><b>JavaFX</b></sub></td></tr>
+</table>
 
 -  **Desktop tools** — GeoCalc, a Python/PyQt5 app for coordinate conversion & geodetic calculations
 -  **Mobile** — MedWay, a Java/Android app for geolocation-based navigation to healthcare facilities
 
 ### 💻 Programming & Data Analysis
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/python" height="40" alt="Python" title="Python"/><br/><sub><b>Python</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/c" height="40" alt="C" title="C"/><br/><sub><b>C</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++" title="C++"/><br/><sub><b>C++</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/r" height="40" alt="R" title="R"/><br/><sub><b>R</b></sub></td></tr>
+</table>
 
 -  **Automation** — Python scripting for geoprocessing pipelines & repetitive GIS tasks
 -  **Analysis** — spatial statistics in R, with C/C++ fundamentals from core engineering coursework
 
 ### 🤝 Collaboration & Productivity
-<p align="left">
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
-<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=for-the-badge&logo=clickup&logoColor=white"/>
-<img src="https://img.shields.io/badge/Basecamp-1D2D35?style=for-the-badge&logo=basecamp&logoColor=white"/>
-</p>
+<table>
+<tr><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/microsoftexcel" height="40" alt="Excel" title="Excel"/><br/><sub><b>Excel</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/microsoftword" height="40" alt="Word" title="Word"/><br/><sub><b>Word</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/microsoftpowerpoint" height="40" alt="PowerPoint" title="PowerPoint"/><br/><sub><b>PowerPoint</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/google" height="40" alt="Google Workspace" title="Google Workspace"/><br/><sub><b>Google Workspace</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/trello" height="40" alt="Trello" title="Trello"/><br/><sub><b>Trello</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/clickup" height="40" alt="ClickUp" title="ClickUp"/><br/><sub><b>ClickUp</b></sub></td><td align="center" valign="top" width="110"><img src="https://cdn.simpleicons.org/basecamp" height="40" alt="Basecamp" title="Basecamp"/><br/><sub><b>Basecamp</b></sub></td></tr>
+</table>
 
 -  **Delivery & reporting** — Trello/ClickUp for task tracking, Office & Google Workspace for client-ready reporting
 
