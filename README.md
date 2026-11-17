@@ -116,19 +116,6 @@ Every category below maps to a stage of that pipeline — from field data to fin
 
 ---
 
-## 🚀 Featured Projects
-
-Real deliverables from that pipeline — from siting a treatment plant to mapping fire damage from space.
-
--  **STEPO** *(ArcGIS)* — AHP multi-criteria siting of a wastewater treatment plant, Ouazzane
--  **GeoCalc** *(Python · PyQt5)* — Desktop app for coordinate conversion & geodetic calculations
--  **MedWay** *(Java · Android)* — Mobile app for geolocation-based access to healthcare facilities
--  **Burned Area Detection** *(Remote Sensing · Deep Learning)* — Automated mapping of fire-affected surfaces from satellite imagery
--  **Urban Transport WebGIS — Tangier Medina** *(PostGIS · Python · Leaflet)* — Interactive spatial-analysis platform for urban transport planning
--  **QGIS Plugin — Tourism Sustainability** *(QGIS · AHP)* — Custom multi-criteria evaluation plugin for sustainable tourism
--  **Europe–Africa Bridge Feasibility** *(Google Earth Engine)* — Large-scale feasibility study at the Strait of Gibraltar
-
----
 
 ## 📫 Let's Connect!
 
